@@ -4,7 +4,7 @@
 
 **Computer Engineer | AI/ML Enthusiast | Data Analyst**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://harsh-chauhan-web-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://harshchauhan.vercel.app/)
 
 </div>
 
@@ -196,9 +196,9 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 <div align="center">
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHarsh1511&show_icons=true&theme=radical&count_private=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchauhan115&show_icons=true&theme=radical&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHarsh1511&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchauhan115&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
 
 </div>
 
