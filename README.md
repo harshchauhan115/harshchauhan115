@@ -198,7 +198,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchauhan115&show_icons=true&theme=radical&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchauhan115&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchauhan115&layout=compact&theme=radical)](https://github.com/harshchauhan115)
 
 </div>
 
@@ -216,7 +216,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GitHarsh1511&color=22c55e&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=harshchauhan115&color=22c55e&style=flat-square)
 
 </div>
 
