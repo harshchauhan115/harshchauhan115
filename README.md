@@ -191,15 +191,31 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 </table>
 
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshchauhan115&show_icons=true&theme=radical&hide_border=true" />
+<a href="https://github.com/GitHarsh1511">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GitHarsh1511&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+    alt="Harsh's GitHub Stats"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchauhan115&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github.com/GitHarsh1511">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHarsh1511&layout=compact&theme=radical&hide_border=true"
+    height="180"
+    alt="Harsh's Top Languages"
+  />
+</a>
 
 </div>
+
+---
 
 ## 🏆 Highlights & Experience
 
