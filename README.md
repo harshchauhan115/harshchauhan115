@@ -30,7 +30,7 @@
 </td>
 
 <td align="center" width="140">
-  <a href="https://github.com/GitHarsh1511">
+  <a href="https://github.com/harshchauhan115">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
       height="40"
